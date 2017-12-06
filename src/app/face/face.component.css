@@ -1,8 +1,15 @@
 .face {
   border-radius: 50%;
-  width:50%;
+  width:auto;
   height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
 } 
+h1
+{
+  text-align: center;
+  color: #fff;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:  4em;
+}
